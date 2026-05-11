@@ -57,7 +57,7 @@ Runs complete analysis pipeline: sleep phenotyping → physiological aggregation
 
 ## References
 
-Lautman, Z., Shah, K. U., Shipley, H., Poe, J., Songphatanayothin, T., & Snyder, M. P. (2026).
+Lautman, Z., Shah, K. U., Shipley, H., Poe, J.,B, Tanya., Songphatanayothin, T., & Snyder, M. P. (2026).
 Beyond 'Stressed' or 'Not': Wearable-Derived Stress-Physiology Phenotypes. *In-prep*.
 
 LifeSnaps dataset: Yfantidou, S., *et al.* (2022). LifeSnaps, a 4-month multi-modal dataset. *Scientific Data*, 9, 663. https://doi.org/10.5281/zenodo.6826682
